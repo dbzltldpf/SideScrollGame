@@ -1,0 +1,90 @@
+{
+  "item": [
+    {
+      "ID": 10001,
+      "Name": "빨간 물약",
+      "Description": "체력을 10 회복시켜준다.",
+      "Type": "Use",
+      "Count": 1
+    },
+    {
+      "ID": 10002,
+      "Name": "파란 물약",
+      "Description": "마나를 10 회복시켜준다.",
+      "Type": "Use",
+      "Count": 1
+    },
+    {
+      "ID": 10003,
+      "Name": "농축 빨간 물약",
+      "Description": "체력을 30% 회복시켜준다.",
+      "Type": "Use",
+      "Count": 1
+    },
+    {
+      "ID": 10004,
+      "Name": "농축 파란 물약",
+      "Description": "마나를 30% 회복시켜준다.",
+      "Type": "Use",
+      "Count": 1
+    },
+    {
+      "ID": 11001,
+      "Name": "랜덤 상자",
+      "Description": "랜덤으로 포션이 나온다. 낮은 확률로 꽝",
+      "Type": "Use",
+      "Count": 1
+    },
+    {
+      "ID": 20001,
+      "Name": "짧은 검",
+      "Description": "기본적인 검",
+      "Type": "Equip",
+      "Level": 0,
+      "Exp": 0,
+      "nextLevelExp": 5,
+      "Count": 1
+    },
+    {
+      "ID": 20002,
+      "Name": "짧은 활",
+      "Description": "기본적인 활",
+      "Type": "Equip",
+      "Level": 0,
+      "Exp": 0,
+      "nextLevelExp": 5,
+      "Count": 1
+    },
+    {
+      "ID": 21001,
+      "Name": "사파이어 반지",
+      "Description": "1분에 마나를 1씩 회복 시켜주는 마법 반지",
+      "Type": "Equip",
+      "Level": 0,
+      "Exp": 0,
+      "nextLevelExp": 5,
+      "Count": 1
+    },
+    {
+      "ID": 30001,
+      "Name": "고대 유물의 조각 1",
+      "Description": "반으로 쪼개진 고대 유물의 파편",
+      "Type": "Quest",
+      "Count": 1
+    },
+    {
+      "ID": 30002,
+      "Name": "고대 유물의 조각 2",
+      "Description": "반으로 쪼개진 고대 유물의 파편",
+      "Type": "Quest",
+      "Count": 1
+    },
+    {
+      "ID": 30003,
+      "Name": "고대 유물",
+      "Description": "고대 유적에 잠들어있던 고대의 유물",
+      "Type": "Quest",
+      "Count": 1
+    }
+  ]
+}

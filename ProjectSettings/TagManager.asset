@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - village
+  - dungeonRoad
+  - wall
+  - road
+  - dungeon
+  - Skill
+  - Enemy
+  - Npc
+  - Item
+  - Weapon
+  - bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - wall
+  - Object
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3639483529
+    locked: 0
+  - name: BG1
+    uniqueID: 1277051469
+    locked: 0
+  - name: unwalk
+    uniqueID: 1914430369
+    locked: 0
+  - name: weaponEffect
+    uniqueID: 2756350455
+    locked: 0
+  - name: Coin
+    uniqueID: 2732173179
+    locked: 0
+  - name: Item
+    uniqueID: 3441778167
+    locked: 0
+  - name: BackEquip
+    uniqueID: 4249137361
+    locked: 0
+  - name: Character
+    uniqueID: 2190488379
+    locked: 0
+  - name: FrontEquip
+    uniqueID: 3120507677
+    locked: 0
