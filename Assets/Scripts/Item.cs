@@ -69,7 +69,7 @@ public class Item : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDragHand
     {
         if (myParent)
         {
-            transform.SetParent(myParent);
+            transform.SetParent(myParent,false);
             transform.position = myParent.position;
         }
  
